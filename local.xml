@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<layout>
+
+<!--
+Default layout, loads most of the pages
+-->
+  <default>
+
+  <reference name="root">
+      <!-- Insert Code Here -->
+  </reference> 
+
+    <!-- Header -->
+    <reference name="header">
+  	<block type="core/template" name="top.search" as="topSearch" template="catalogsearch/form.mini.phtml"/> 
+    </reference>
+
+    <!-- Left Sidebar -->
+    <reference name="left"> 
+      <!-- Insert Code Here -->
+    </reference> 
+
+    <!-- Right Sidebar -->
+    <reference name="right">
+      <!-- Insert Code Here -->
+    </reference>
+
+    <!-- Content -->
+    <reference name="content">
+      <!-- Insert Code Here -->
+    </reference>
+
+    <!-- Top Nav -->
+    <reference name="top.nav">
+      <!-- Insert Code Here -->
+    </reference>
+
+  </default>
+</layout>
