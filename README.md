@@ -1,7 +1,7 @@
 Magento-Template-Elements-List
 ==============================
 
-Default Template Elements us in Magento
+Default Template Elements used in Magento
 
 
 #####Quick Search
