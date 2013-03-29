@@ -17,5 +17,5 @@ Reference the Block to the Correct Location
 
 Add This to The Desired Location of Your Template
 ```php
-<?php echo $this->getChildHtml(’topSearch’) ?>
+<?php echo $this->getChildHtml('topSearch') ?>
 ```
